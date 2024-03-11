@@ -4,8 +4,6 @@
 [Installation](#installation)
 [License](#license)
 [Usage](#usage)
-[Credits](#credits)
-[Tests](#tests)
 [Questions](#questions)
 
 ## Description
