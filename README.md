@@ -23,11 +23,11 @@ Fork the repository
 
 ## Usage
 ### Homepage Screenshot
-![note_taker_homepage]()
+![note_taker_homepage](C:\Users\alysa\Bootcamp\New folder\Challenge-11-Express-Note-Taker\Note_Taker\Screenshot 1.png)
 ![Screenshot of a simple homepage with a "Get Started" button]
 
 ### Notes Screenshot
-![note_taker_screenshot]()
+![note_taker_screenshot](C:\Users\alysa\Bootcamp\New folder\Challenge-11-Express-Note-Taker\Note_Taker\Screenshot 2.png)
 ![Screenshot of a simple note application with a saved note, current note, and buttons]
 
 ## Questions
