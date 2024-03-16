@@ -22,13 +22,13 @@ This work is protected under the MIT License: (https://opensource.org/licenses/M
 Fork the repository
 
 ## Usage
+URL of deployed application : https://note-taker-aevans-56511dacf34d.herokuapp.com/ 
+
 ### Homepage Screenshot
-![note_taker_homepage](C:\Users\alysa\Bootcamp\New folder\Challenge-11-Express-Note-Taker\Note_Taker\Screenshot 1.png)
-![Screenshot of a simple homepage with a "Get Started" button]
+C:\Users\alysa\Bootcamp\New folder\Challenge-11-Express-Note-Taker\Note_Taker\public\assets\images\Note-Taker-Screenshot.png
 
 ### Notes Screenshot
-![note_taker_screenshot](C:\Users\alysa\Bootcamp\New folder\Challenge-11-Express-Note-Taker\Note_Taker\Screenshot 2.png)
-![Screenshot of a simple note application with a saved note, current note, and buttons]
+C:\Users\alysa\Bootcamp\New folder\Challenge-11-Express-Note-Taker\Note_Taker\public\assets\images\Note-Taker-Screenshot-2.png 
 
 ## Questions
 ### GitHub
